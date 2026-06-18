@@ -1,4 +1,4 @@
-# Russian Translation for MVSep-MDX23 Colab Fork v2.5
+# Working 2.5 Fork for MVSep-MDX23 Colab Fork v2.5 + Russian Translation by alphatoasterous
 Please support the upstream developer!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q811R5YI)  
@@ -6,7 +6,7 @@ Please support the upstream developer!
 
 Adaptation of MVSep-MDX23 algorithm for Colab, with few tweaks:
 
-https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.5/MVSep-MDX23-Colab.ipynb  
+https://colab.research.google.com/github/XerKy/MVSEP-MDX23-Colab_v2/blob/v2.5/MVSep-MDX23-Colab.ipynb 
 <br>  
 
 Recent changes:  
