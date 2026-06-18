@@ -1,4 +1,4 @@
-# Working 2.5 Fork for MVSep-MDX23 Colab Fork v2.5 + Russian Translation by alphatoasterous
+# Working 2.5 Fork for MVSep-MDX23 Colab
 Please support the upstream developer!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q811R5YI)  
