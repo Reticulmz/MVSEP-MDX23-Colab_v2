@@ -1,10 +1,10 @@
-numpy
+numpy==1.26.4
 soundfile
 scipy
 tqdm
 librosa
 demucs
-onnxruntime-gpu
+onnxruntime-gpu==1.18.0
 torch
 pyyaml
 ml_collections
